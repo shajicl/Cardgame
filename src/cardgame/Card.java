@@ -2,6 +2,7 @@
 package cardgame;
 
 /**clinda mariya shaji
+  * i am trying to make changes in order to learn
  * Code in progress for teaching purposes, finish by connecting the generator
  * to the CardGame class when teaching
  * @author dancye, 2023
